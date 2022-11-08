@@ -3,6 +3,7 @@ body{
     background-color: #c4cc71;
     background-repeat: no-repeat;
     background-size: 100%;
+    margin: 0;
 }
 .header {
     overflow: hidden;
